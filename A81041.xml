@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for regulating the silver coyne, bearing the charge of it, producing a circulation, and securing it to the kingdom By J. C. Merchant.</title>
+            <author>J. C.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81041</idno><idno type="EEBO-CITATION">99896961</idno>
+  <idno type="VID">135730</idno>
+  <idno type="EEBO-PROQUEST">2240938331</idno>
+  
+            <idno type="STC">Wing C71</idno>
+            <idno type="STC">ESTC R225298</idno>
+            <idno type="PROQUEST">99896961</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896961e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2455:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for regulating the silver coyne, bearing the charge of it, producing a circulation, and securing it to the kingdom By J. C. Merchant.</title>
+                  <author>J. C.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Great Britain --  1688-1815 --  Early works to 1800.</term>
+               <term type="topical_term">Guinea (Coin) --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Money --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:135730:1"/>
+            <head>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ROPOSALS for Regulating the <hi>Silver Coyne,</hi> bearing the Charge of it, producing a Circulation, and securing it to the Kingdom. By <hi>J.C.</hi> Merchant.</head>
+            <div type="introduction">
+               <p>THE Prejudice our Trade lyes under, and the Troubles almost every body meets with from the present state and condition of our Coyn, necessitate a Remedy; but what measures are convenient to be taken to cure this great and growing evil, requires more caution than some forward People imagine. Somewhat may be said for, but a great deal against, several Projects that are thought or asserted will do it.</p>
+               <p>As the settling <hi>Guineys</hi> at 30 <hi>s.</hi> or a limited Price, and falling them by degrees.</p>
+               <p>The calling in our Plate and present Money, and issuing out Coyn of courser Allay.</p>
+               <p>The continuing our Standard, but lessening the New Coyned Pieces proportion<g ref="char:EOLhyphen"/>ably to some agreed rate of Bullion, and such like.</p>
+               <p>And the Authors and Contenders for these Projects, it's to be feared, are not so much concerned to Relieve the Nation, as to obtain an Alteration which may Qua<g ref="char:EOLhyphen"/>drate with their Private Interest and Advantage.</p>
+               <p>It's the reducing all our Silver Coyn (which measures Gold <hi>&amp;c.</hi> both at Home and Abroad) to its Legal Weight and Fineness, making such a quantity of it circulate as our Trade and other Occasions require, and securing it to the Kingdom, we stand in need of; and these are aimed at in the following Proposals, and a Method descri<g ref="char:EOLhyphen"/>bed for repairing the Loss in new Coyning the Old, Light, and Bad Money, by an equal imposition on our whole Money it self.</p>
+            </div>
+            <div type="proposal">
+               <head>The PROPOSAL.</head>
+               <p>LET all the Silver Money both New and Old, except —, which suppose about 8000000 <hi>l.</hi> be call'd in in a certain time.</p>
+               <p>Let a convenient Place or Places be assigned for receiving it at, and securing it in, and the Persons chiefly intrusted for Number and Quality, be to the Peoples intire Satisfaction.</p>
+               <p>Let competent numbers of Bills be prepared in convenient Sums from One to One Hundred Pounds to answer all occasions.</p>
+               <p>Let all bringers in of Money receive in Exchange a proportion of Bills to the value of their Money in tail, and certain times be fixed for successive renewing them.</p>
+               <p>Let the New or Mill'd Money be preserved, and the Old new Coyned, and being returned from the <hi>Mint,</hi> let it remain with the other as a Security for, and in due time be re-exchanged for the aforesaid Bills.</p>
+               <p>Let a Duty be laid on the first and successive Bills to answer the Loss in new Coyning the Light and Bad Money, a Half-peny <hi>per</hi> Pound on Eight Millions, the Bills being renewed every Two Months will amount to 100000 <hi>l. per Annum.</hi>
+               </p>
+               <p>Let the 8000000 <hi>l.</hi> be divided in Bills, and the Duty imposed be in some such manner as follows.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">in...Bills of</cell>
+                        <cell role="label">
+                           <hi>l. each, at</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                        <cell role="label">per Bill duty, is</cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3000000</cell>
+                        <cell>30000</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>02</cell>
+                        <cell>——</cell>
+                        <cell>6250</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>1500000</cell>
+                        <cell> 30000</cell>
+                        <cell> 50 </cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>01</cell>
+                        <cell>— —</cell>
+                        <cell>3125</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>1200000</cell>
+                        <cell> 30000</cell>
+                        <cell> 40 </cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>08</cell>
+                        <cell>— —</cell>
+                        <cell>2500</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>900000</cell>
+                        <cell> 30000</cell>
+                        <cell> 30 </cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>03</cell>
+                        <cell>— —</cell>
+                        <cell>1875</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>600000</cell>
+                        <cell>30000</cell>
+                        <cell> 20 </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>— —</cell>
+                        <cell>1250</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>300000</cell>
+                        <cell>30000</cell>
+                        <cell> 10 </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>05</cell>
+                        <cell>——</cell>
+                        <cell>625</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>150000</cell>
+                        <cell> 30000</cell>
+                        <cell> 5 </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>02½</cell>
+                        <cell>— —</cell>
+                        <cell>312</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>120000</cell>
+                        <cell> 30000</cell>
+                        <cell> 4 </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>— —</cell>
+                        <cell>250</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>90000</cell>
+                        <cell>30000</cell>
+                        <cell>3 </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>01½</cell>
+                        <cell>——</cell>
+                        <cell>187</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>60000</cell>
+                        <cell> 30000</cell>
+                        <cell> 2 </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>——</cell>
+                        <cell>125</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>80000</cell>
+                        <cell> 80000</cell>
+                        <cell> 1</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>00½</cell>
+                        <cell>——</cell>
+                        <cell>166</cell>
+                        <cell>13</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell>8000000</cell>
+                        <cell>380000</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>at ½ <hi>d.</hi>
+                        </cell>
+                        <cell>
+                           <hi>per</hi> Pound is</cell>
+                        <cell>16665</cell>
+                        <cell>13</cell>
+                        <cell>04</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Renewed six times is 100000 <hi>l. per Annum.</hi>
+               </p>
+               <p>When the Loss is made good, a ballance of Trade provided for, and the danger of Exporting our Silver is over, let the Bills be call'd in, and the Money redelivered to the Possessors of them.</p>
+               <pb facs="tcp:135730:2"/>
+               <p>That there yet remains in the Nation Eight Millions of New land Old Silver Mo<g ref="char:EOLhyphen"/>ney (while so little appears or circulates,) will to some seem incredible) though ma<g ref="char:EOLhyphen"/>ny Judicious Persons believe a much greater Sum; if it exceeds, the Duty will be the more easie, and the loss in new Coyning sooner made good, if it falls short, and so much is thought necessary, there's wayes to Compleat it; Six-Penny Pieces, and Smaller Money for the conveniency of Change, may for a while, be excepted, and provision may be made for exempting some particular Hoarded Coynes.</p>
+               <p>The Place of Places for Repositing this Money, and the Persons or Societie in<g ref="char:EOLhyphen"/>trusted with it, being appointed to the Peoples Satisfaction, its Security will be unquestionable, especially when we consider how every one will be interested to defend it.</p>
+               <p>In Settling the Number of Bills, respect must be had to the Occasions of the Kingdom, and they must be so contrived as to admit of Assignments, both easie and safe to the Receivers.</p>
+               <p>It's reasonable that Bringers in of Money, whether New or Old, without distinction, should have Bills for the Amounts of such Money in Tayle, the Coyn being the Nations at its Coyned Price, and the Poor in whose Hands the Light and Bad Money will for the most part be found, would otherwise be great Sufferers.</p>
+               <p>To Recoin our present New Money is needless and disrespectful; the Old need only be reformed to ascertain the Loss, that the Duty may repair it by a Gradual Purchase of Bullion and Coining it; which done, the Bills may be Recalled, and the Money returned to the Possessors of them.</p>
+               <p>It's plain, One Hundred Thousand Pounds <hi>per Annum</hi> will arise from a Duty of a Half-penny <hi>per</hi> Pound on Eight Millions, if the Bills are renewed every Two Months, or Six Times a Year: Which Half-penny <hi>per</hi> Pound must be allowed an almost insensible Impost, considering all that shall be Possessors of each Bill between Renewals are effectually Contributors to it: But whether a Half-penny <hi>per</hi> Pound, or more or less will be requisite, cannot be determined, till the Amounts of the Silver Money is known, how oft the Bills shall be renewed, and the whole Time for executing the Design is settled.</p>
+               <p>The Practice of the foregoing Proposal will produce a Virtual Circulation of our Silver Coin.</p>
+               <p>It's an Expedient that will free the Government from the difficult and ungrateful Task of Regulating Gold.</p>
+               <p>It will mightily facilitate the Collection and Return of Taxes to the Exchequer.</p>
+               <p>These Bills may be made useful in Supplying our Fleet and Army abroad.</p>
+               <p>It will greatly Encrease the Revenue of the Post-Office, which Increase may make a part of the Duty Imposed.</p>
+               <p>The Noise of such a Bank through the World will Inhance the Honour of the <hi>English</hi> Nation: And many other Advantages will accrue by it.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
